@@ -1,16 +1,27 @@
-## Hi there 👋
+##Hi there, I'm Nathan Odle! 👋
 
-<!--
-**NathanPODE/NathanPODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at California State University, Northridge (CSUN) & College of the Canyons (COC) Graduate
 
-Here are some ideas to get you started:
+📐 Minoring in Mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently seeking a Software Engineering / Developer Internship
+
+🛠️ Languages & Tools
+
+Languages: Java • JavaScript • Python • C • C++ • HTML5 • CSS3 • SQL • LEGv8 Assembly
+
+Frameworks & Libraries: React • Node.js • Express • Flask
+
+Tools & Databases: Git • GitHub • PostgreSQL • MySQL • Neon • Docker • LaTeX • LLMs
+
+🚀 Featured Projects
+
+Portfolio Website – Personal web portfolio showcasing my projects and skills.
+
+To-Do List & Habit Tracker – Full-stack web application with streak tracking, badges, and serverless PostgreSQL integration.
+
+📫 Connect with Me
+
+🌐 Portfolio: nathan-odles-portfolio.onrender.com
+
+📧 Email: Mr.nathan.odle@gmail.com
