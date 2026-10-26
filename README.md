@@ -1,4 +1,4 @@
-##Hi there, I'm Nathan Odle! 👋
+Hi there, I'm Nathan Odle! 👋
 
 🎓 Computer Science Student at California State University, Northridge (CSUN) & College of the Canyons (COC) Graduate
 
