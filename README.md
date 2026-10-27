@@ -1,27 +1,45 @@
-Hi there, I'm Nathan Odle! 👋
+# 👋 Hi there, I'm Nathan Odle!
 
-🎓 Computer Science Student at California State University, Northridge (CSUN) & College of the Canyons (COC) Graduate
+### 🎓 Computer Science Student | 💻 Aspiring Software Engineer
 
-📐 Minoring in Mathematics
+I'm a Computer Science student at **California State University, Northridge (CSUN)** and a **College of the Canyons (COC) graduate**, with a minor in Mathematics.
 
-💼 Currently seeking a Software Engineering / Developer Internship
+- 🎓 **Education:** Computer Science at CSUN | COC Graduate
+- 📐 **Minor:** Mathematics
+- 💼 **Currently seeking:** Software Engineering / Developer Internship
 
-🛠️ Languages & Tools
+---
 
-Languages: Java • JavaScript • Python • C • C++ • HTML5 • CSS3 • SQL • LEGv8 Assembly
+## 🛠️ Languages & Technologies
 
-Frameworks & Libraries: React • Node.js • Express • Flask
+### 💻 Languages
+`Java` • `JavaScript` • `Python` • `C` • `C++` • `HTML5` • `CSS3` • `SQL` • `LEGv8 Assembly`
 
-Tools & Databases: Git • GitHub • PostgreSQL • MySQL • Neon • Docker • LaTeX • LLMs
+### ⚙️ Frameworks & Libraries
+`React` • `Node.js` • `Express` • `Flask`
 
-🚀 Featured Projects
+### 🔧 Tools & Databases
+`Git` • `GitHub` • `PostgreSQL` • `MySQL` • `Neon` • `Docker` • `LaTeX` • `LLMs`
 
-Portfolio Website – Personal web portfolio showcasing my projects and skills.
+---
 
-To-Do List & Habit Tracker – Full-stack web application with streak tracking, badges, and serverless PostgreSQL integration.
+## 🚀 Featured Projects
 
-📫 Connect with Me
+### 🌐 Portfolio Website
+A personal web portfolio showcasing my projects, technical skills, and experience.
 
-🌐 Portfolio: nathan-odles-portfolio.onrender.com
+🔗 **[View My Portfolio](https://nathan-odles-portfolio.onrender.com)**
 
-📧 Email: Mr.nathan.odle@gmail.com
+### ✅ To-Do List & Habit Tracker
+A full-stack web application featuring habit tracking, streak tracking, achievement badges, and serverless PostgreSQL integration.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Portfolio:** [nathan-odles-portfolio.onrender.com](https://nathan-odles-portfolio.onrender.com)
+- 📧 **Email:** [Mr.nathan.odle@gmail.com](mailto:Mr.nathan.odle@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile!*
